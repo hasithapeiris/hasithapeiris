@@ -11,6 +11,8 @@ I am an undergraduate student in IT with a passion for graphic design. Combining
 
 ## Skills
 
-- JavaScript -
-
-
+![Progress](https://progress-bar.dev/75/?title=HTML)
+![Progress](https://progress-bar.dev/50/?title=CSS)
+![Progress](https://progress-bar.dev/35/?title=JavaScript)
+![Progress](https://progress-bar.dev/45/?title=Node.js)
+![Progress](https://progress-bar.dev/30/?title=React)
