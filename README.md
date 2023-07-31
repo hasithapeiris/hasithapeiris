@@ -7,6 +7,7 @@ I am an undergraduate student in IT with a passion for graphic design. Combining
 ## Connect with me
 
 - LinkedIn - [**in/HasithaPeiris**](https://www.linkedin.com/in/hasithapeiris)
+- HackerRank - [**/HasithaPeiris**](https://www.hackerrank.com/HasithaPeiris)
 - Medium - [**@HasithaPeiris**](https://medium.com/@HasithaPeiris)
 
 ## Skills
