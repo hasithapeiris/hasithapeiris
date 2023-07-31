@@ -2,7 +2,7 @@
 
 ## Who am I
 
-I am an undergraduate student in IT with a passion for graphic design. Combining my technical expertise in information technology with a creative mindset, I excel in delivering visually captivating designs.
+I am a student with a passion for IT and design. My ultimate aspiration revolves around harnessing the power of information technology and design to create innovative solutions that enhance the lives of all individuals.
 
 ## Connect with me
 
