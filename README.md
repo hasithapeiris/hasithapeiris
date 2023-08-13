@@ -8,6 +8,7 @@ I am a student with a passion for IT and design. My ultimate aspiration revolves
 
 - LinkedIn - [**in/HasithaPeiris**](https://www.linkedin.com/in/hasithapeiris)
 - HackerRank - [**@HasithaPeiris**](https://www.hackerrank.com/HasithaPeiris)
+- Replit - [**@HasithaPeiris**](https://replit.com/@HasithaPeiris)
 - Reddit - [**u/HasithaPeiris**](https://www.reddit.com/user/HasithaPeiris)
 - Medium - [**@HasithaPeiris**](https://medium.com/@HasithaPeiris)
 
