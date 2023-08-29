@@ -17,5 +17,5 @@ I am a student with a passion for IT and design. My ultimate aspiration revolves
 ![Progress](https://progress-bar.dev/75/?title=HTML)
 ![Progress](https://progress-bar.dev/50/?title=CSS)
 ![Progress](https://progress-bar.dev/35/?title=JavaScript)
-![Progress](https://progress-bar.dev/45/?title=Node.js)
-![Progress](https://progress-bar.dev/30/?title=React)
+![Progress](https://progress-bar.dev/30/?title=Python)
+![Progress](https://progress-bar.dev/30/?title=Java)
