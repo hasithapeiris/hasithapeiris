@@ -2,7 +2,7 @@
 
 ## Who am I
 
-I am a student with a passion for IT and design. My ultimate aspiration revolves around harnessing the power of information technology and design to create innovative solutions that enhance the lives of all individuals.
+I am a student with a passion for IT and design. I want to use technology and design to make new things that make everyone's lives better.
 
 ## Connect with me
 
