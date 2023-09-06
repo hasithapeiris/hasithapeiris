@@ -15,7 +15,7 @@ I am a student with a passion for IT and design. I want to use technology and de
 ## Technology usage
 
 ![Progress](https://progress-bar.dev/75/?title=HTML)
-![Progress](https://progress-bar.dev/50/?title=CSS)
-![Progress](https://progress-bar.dev/35/?title=JavaScript)
+![Progress](https://progress-bar.dev/75/?title=CSS)
+![Progress](https://progress-bar.dev/75/?title=JavaScript)
 ![Progress](https://progress-bar.dev/30/?title=Python)
 ![Progress](https://progress-bar.dev/30/?title=Java)
