@@ -12,7 +12,7 @@ I am a student with a passion for IT and design. I want to use technology and de
 - Reddit - [**u/HasithaPeiris**](https://www.reddit.com/user/HasithaPeiris)
 - Medium - [**@HasithaPeiris**](https://medium.com/@HasithaPeiris)
 
-## Skills
+## Technology usage
 
 ![Progress](https://progress-bar.dev/75/?title=HTML)
 ![Progress](https://progress-bar.dev/50/?title=CSS)
