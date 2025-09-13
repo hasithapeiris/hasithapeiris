@@ -49,9 +49,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasithapeiris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasithapeiris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&border_radius=10&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=hasithapeiris&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasithapeiris&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
