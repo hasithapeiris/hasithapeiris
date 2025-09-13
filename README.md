@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about IT and Design.<br>🎓 Pursuing a degree in Software Engineering at SLIIT.<br>🎯 Loves to make new things that make everyone's lives better.</p>
+<p align="left">✨ Passionate about IT and Visual Design.<br>👨🏻‍💻 Intern Software Engineer specializing in Web Development.<br>🎯 Loves to make new things that make everyone's lives better.</p>
 
 ###
 
@@ -27,11 +27,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
@@ -41,9 +49,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithapeiris&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=7&order=2" height="150" alt="languages graph"/>
-  <img />
-  <img src="https://streak-stats.demolab.com?user=hasithapeiris&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasithapeiris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hasithapeiris&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasithapeiris&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
